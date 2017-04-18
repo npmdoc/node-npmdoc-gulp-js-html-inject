@@ -1,4 +1,7 @@
-# api documentation for  [gulp-js-html-inject (v0.0.1)](https://github.com/vladimmi/gulp-js-html-inject)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-js-html-inject.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-js-html-inject) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-js-html-inject.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-js-html-inject)
+# npmdoc-gulp-js-html-inject
+
+#### api documentation for  [gulp-js-html-inject (v0.0.1)](https://github.com/vladimmi/gulp-js-html-inject)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-js-html-inject.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-js-html-inject) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-js-html-inject.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-js-html-inject)
+
 #### Gulp plugin for injecting referenced HTML files back into JS code as strings
 
 [![NPM](https://nodei.co/npm/gulp-js-html-inject.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-js-html-inject)
