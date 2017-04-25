@@ -1,6 +1,6 @@
 # npmdoc-gulp-js-html-inject
 
-#### api documentation for  [gulp-js-html-inject (v0.0.1)](https://github.com/vladimmi/gulp-js-html-inject)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-js-html-inject.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-js-html-inject) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-js-html-inject.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-js-html-inject)
+#### basic api documentation for  [gulp-js-html-inject (v0.0.1)](https://github.com/vladimmi/gulp-js-html-inject)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-js-html-inject.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-js-html-inject) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-js-html-inject.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-js-html-inject)
 
 #### Gulp plugin for injecting referenced HTML files back into JS code as strings
 
@@ -61,7 +61,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "bin": {}
 }
 ```
 
